@@ -50,7 +50,7 @@ Một số ví dụ biểu đồ phân phối điểm theo tổ hợp khối:
 
 | Khối   | Biểu đồ minh họa                                       |
 |--------|--------------------------------------------------------|
-| Guideline    | ![](Screenshot/TổngQuan/Guideline.png) |
+| Guideline    | ![](Screenshot/Tổng Quan/Guideline.png) |
 | Khối A – A00 | ![](Screenshot/Khối%20A/A00.png) |
 | Khối B – B00 | ![](Screenshot/Khối%20B/B00.png) |
 | Khối C – C00 | ![](Screenshot/Khối%20C/C00.png) |
