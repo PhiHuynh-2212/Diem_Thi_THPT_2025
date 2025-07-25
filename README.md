@@ -43,6 +43,7 @@ Dự án phân tích điểm thi THPT 2025 sử dụng Python để làm sạch 
 ```
 
 ---
+![](Screenshot/Tổng Quan/Guideline.png)
 
 ## 📊 Demo Biểu Đồ Phân Phối
 
@@ -50,7 +51,7 @@ Một số ví dụ biểu đồ phân phối điểm theo tổ hợp khối:
 
 | Khối   | Biểu đồ minh họa                                       |
 |--------|--------------------------------------------------------|
-| Guideline    | ![](Screenshot/Tổng Quan/Guideline.png) |
+| Guideline    | ![](Screenshot/Tổng%20Quan/Guideline.png) |
 | Khối A – A00 | ![](Screenshot/Khối%20A/A00.png) |
 | Khối B – B00 | ![](Screenshot/Khối%20B/B00.png) |
 | Khối C – C00 | ![](Screenshot/Khối%20C/C00.png) |
@@ -66,6 +67,7 @@ Một số ví dụ biểu đồ phân phối điểm theo tổ hợp khối:
 - Pandas
 - Jupyter Notebook
 - Power BI
+- Notion
 
 ---
 
