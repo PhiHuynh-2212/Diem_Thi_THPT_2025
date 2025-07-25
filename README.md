@@ -32,6 +32,8 @@ Dự án phân tích điểm thi THPT 2025 sử dụng Python để làm sạch 
 │ └── Processed/ # Dữ liệu đã xử lý, tính tổ hợp
 ├── Python/ # Notebook Python làm sạch và phân tích dữ liệu
 ├── Screenshot/ # Biểu đồ phân tích xuất ra
+│ ├── Tổng Quan/ # Biểu đồ thể hiện tổng quan kì thi thpt 2025
+│ ├── Các Môn Thi/ # Biểu đồ phân tích các môn thi
 │ ├── Khối A/ # Biểu đồ A00, A01,...
 │ ├── Khối B/ # Biểu đồ B00, B02,...
 │ ├── Khối C/ # Biểu đồ C00, C01,...
@@ -48,6 +50,7 @@ Một số ví dụ biểu đồ phân phối điểm theo tổ hợp khối:
 
 | Khối   | Biểu đồ minh họa                                       |
 |--------|--------------------------------------------------------|
+| Guideline    | ![](Screenshot/TổngQuan/Guideline.png) |
 | Khối A – A00 | ![](Screenshot/Khối%20A/A00.png) |
 | Khối B – B00 | ![](Screenshot/Khối%20B/B00.png) |
 | Khối C – C00 | ![](Screenshot/Khối%20C/C00.png) |
